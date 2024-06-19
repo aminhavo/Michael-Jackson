@@ -26,9 +26,9 @@ const perguntas = [
                 afirmacao: "afirmação"
             },
             {
-                texto: "sim"
+                texto: "sim",
                 afirmacao: "afirmação"
-            }
+            },
         ]
     },
     {
